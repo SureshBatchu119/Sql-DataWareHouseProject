@@ -4,6 +4,33 @@ Welcome to the **Data Warehose and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designes as a portfolio project highlights industry best practices in data engineering and analytics.
 
 ----
+Project Overview
+This project involves:
+ 1.Data Architecture: Designing a Modern Data Warehouse using Medallion Architecture Bronze, Silver and Gold Layers.
+ 2. ETl pipeline: Extracting, transforming, and loading data from source systems into the warehouse.
+ 3. Data Modeling: Develoing fact and dimension tables optimised for analytical queries.
+ 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
+ This repository is an excellent resource for professionals and students looking to showcase expertise in:
+ .SQL Development
+ .Data Architect
+ .Data Engineering
+ .ETL Pipeline Developer
+ .Data Modeling
+ .Data Analysis
+
+ Imortant Links & Tools:
+ Everything is for free!
+  .Datasets: Access to the project dataset(csv files).
+  .SQL server Express: Ligth weigth server for hosting your AQL datbase.
+  .SQL Server Management Studio (SSMS): GUI for managing and interacting with database.
+  .Git Repository: Set u a Github account and repository to manage, version, and collaborate on your code efficiently.
+  .DrawIO: Design data architecture, models, flows, and diagrams.
+  .Notion: All-in-one tool for project management and organisation.
+  .NotionProjectSteps: Access to ALL Project Phases and Tasks.
+  
+  
+ 
 
 ## project Requirements
 
@@ -30,6 +57,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
  - **Sales Trends**
 
  - These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+ - For more details, refer to docs/requirements.md.
+   -----------
+   Data Architecture
+   The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold Layers:
+   
 
  - ---
 
